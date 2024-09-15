@@ -3,11 +3,7 @@ import wmi
 ti = 0 
 
 names = [
-    'amdfendrsr.exe',
-    'atieclxx.exe',
-    'atiesrxx.exe',
-    'AUEPMaster.exe',
-    'AUEPDU.exe',
+    'process.exe'
 ]
 
 f = wmi.WMI()
